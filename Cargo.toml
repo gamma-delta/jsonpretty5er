@@ -1,0 +1,18 @@
+[package]
+name = "jsonpretty5er"
+version = "0.1.0"
+edition = "2021"
+
+repository = "https://github.com/gamma-delta/jsonpretty5er"
+
+keywords = ["json", "json5", "formatter"]
+categories = ["development-tools"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+json5format = "0.2.6"
+
+anyhow = "1.0.69"
+maplit = "1.0.2"
+structopt = "0.3.26"
