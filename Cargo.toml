@@ -3,6 +3,9 @@ name = "jsonpretty5er"
 version = "0.1.0"
 edition = "2021"
 
+description = "Redistribution of json5format for easier installation "
+license-file = "LICENSE"
+
 repository = "https://github.com/gamma-delta/jsonpretty5er"
 
 keywords = ["json", "json5", "formatter"]
